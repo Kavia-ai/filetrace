@@ -1,7 +1,5 @@
 # FileTracer
 
-![FileTracer Demo](doc/demo.gif)
-
 A thread-aware file access visualization tool that traces and visualizes file operations across processes and threads using ptrace.
 
 Fully generated using Kavia.AI
