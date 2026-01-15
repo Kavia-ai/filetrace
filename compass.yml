@@ -1,0 +1,14 @@
+name: filetrace
+id: ari:cloud:compass:5e94d758-a794-4b1d-8c6d-fc24ab811c25:component/eaa92134-53b3-4c85-a00a-1874d1736e0e/1cabf71d-ed5c-4a05-976e-bfb0e5dc8f8a
+description: A thread-aware file access visualization tool
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:c++
+  - source:github
+customFields: null
